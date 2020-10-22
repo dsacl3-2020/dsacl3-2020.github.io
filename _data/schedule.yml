@@ -5,58 +5,56 @@
 - week: "01"
   dates:
     Nov 02: "No class"
-    Nov 04:
-      topic: Introduction, administrivia, recap
-    Nov 06:
-      topic: preliminaries (contd)
+    Nov 04: "No class"
+    Nov 06: "No class"
 - week: "02"
   dates:
     Nov 09:
       topic: lab
     Nov 11:
-      topic: common algorithmic patterns
+      topic: Introduction, administrivia, recap
     Nov 13:
-      topic: math preliminaries
+      topic: preliminaries (contd)
 - week: "03"
   dates:
     Nov 16:
       topic: lab 
     Nov 18:
-      topic: analysis of algorithms
+      topic: common algorithmic patterns
     Nov 20:
-      topic: sorting
+      topic: math preliminaries
 - week: "04"
   dates:
     Nov 23:
       topic: lab
     Nov 25:
-      topic: sorting (2)
+      topic: analysis of algorithms
     Nov 27:
-      topic: trees
+      topic: sorting
 - week: "05"
   dates:
     Nov 30:
       topic: lab
     Dec 02:
-      topic: trees (2)
+      topic: sorting (2)
     Dec 04:
-      topic: priority queues, heaps
+      topic: trees
 - week: "06"
   dates:
     Dec 07:
       topic: lab
     Dec 09:
-      topic: heap sort 
+      topic: trees (2)
     Dec 11:
-      topic: probability intro
+      topic: priority queues, heaps
 - week: "07"
   dates:
     Dec 14:
       topic: lab
     Dec 16:
-      topic: hashing
+      topic: heap sort 
     Dec 18:
-      topic: hashing (2)
+      topic: probability intro
 - week: "08"
   dates:
     Dec 21:
@@ -73,57 +71,57 @@
   dates:
     Jan 04: "Sem. break"
     Jan 06:
-      topic: graphs
+      topic: hashing
     Jan 08:
-      topic: graph traversal
+      topic: hashing (2)
 - week: "10"
   dates:
     Jan 11:
       topic: lab
     Jan 13:
-      topic: shortest paths
+      topic: graphs
     Jan 15:
-      topic: minimum spanning trees
+      topic: graph traversal
 - week: "11"
   dates:
     Jan 18:
       topic: lab
     Jan 20:
-      topic: string algorithms
+      topic: shortest paths
     Jan 22:
-      topic: tries / suffix trees
+      topic: minimum spanning trees
 - week: "12"
   dates:
     Jan 25:
       topic: lab
     Jan 27:
-      topic: regular languages / expressions 
+      topic: string algorithms
     Jan 29:
-      topic: finite-state automata
+      topic: tries / suffix trees
 - week: "13"
   dates:
     Feb 01:
       topic: lab
     Feb 03:
-      topic: finite-state automata (2)
+      topic: regular languages / expressions 
     Feb 05:
-      topic: finite-state automata (3)
+      topic: finite-state automata
 - week: "14"
   dates:
     Feb 08:
       topic: lab
     Feb 10:
-      topic: finite-state transducers
+      topic: finite-state automata (2)
     Feb 12:
-      topic: finite-state morphological analysis
+      topic: finite-state automata (3)
 - week: "15"
   dates:
     Feb 15:
       topic: lab
     Feb 17:
-      topic: parsing (?)
+      topic: finite-state transducers
     Feb 19:
-      topic: parsing (?)
+      topic: finite-state morphological analysis
 - week: "16"
   dates:
     Feb 22:
