@@ -3,6 +3,7 @@ layout: default
 title: Schedule & Material 
 ---
 
+**The schedule below is tentative, and likely to change.**
 Links to the course material will be provided in the schedule below
 after each class.
 You may want to have a look at the

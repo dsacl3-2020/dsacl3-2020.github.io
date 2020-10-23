@@ -2,12 +2,12 @@
 #     links:
 #       slides: slides/introduction.pdf
 #        8up: slides/introduction-handout.pdf
-- week: "01"
+- week: "00"
   dates:
     Nov 02: "No class"
     Nov 04: "No class"
     Nov 06: "No class"
-- week: "02"
+- week: "01"
   dates:
     Nov 09:
       topic: lab
@@ -15,15 +15,15 @@
       topic: Introduction, administrivia, recap
     Nov 13:
       topic: preliminaries (contd)
-- week: "03"
+- week: "02"
   dates:
     Nov 16:
-      topic: lab 
+      topic: lab (a1)
     Nov 18:
       topic: common algorithmic patterns
     Nov 20:
       topic: math preliminaries
-- week: "04"
+- week: "03"
   dates:
     Nov 23:
       topic: lab
@@ -31,15 +31,15 @@
       topic: analysis of algorithms
     Nov 27:
       topic: sorting
-- week: "05"
+- week: "04"
   dates:
     Nov 30:
-      topic: lab
+      topic: lab (a2)
     Dec 02:
       topic: sorting (2)
     Dec 04:
       topic: trees
-- week: "06"
+- week: "05"
   dates:
     Dec 07:
       topic: lab
@@ -47,15 +47,16 @@
       topic: trees (2)
     Dec 11:
       topic: priority queues, heaps
-- week: "07"
+- week: "06"
   dates:
     Dec 14:
-      topic: lab
+      topic: lab (a3)
     Dec 16:
       topic: heap sort 
     Dec 18:
       topic: probability intro
-- week: "08"
+- week: "07"
+
   dates:
     Dec 21:
       topic: lab
@@ -67,14 +68,14 @@
     Dec 28: "Sem. break"
     Dec 30: "Sem. break"
     Jan 01: "Sem. break"
-- week: "09"
+- week: "08"
   dates:
     Jan 04: "Sem. break"
     Jan 06:
       topic: hashing
     Jan 08:
       topic: hashing (2)
-- week: "10"
+- week: "09"
   dates:
     Jan 11:
       topic: lab
@@ -82,15 +83,15 @@
       topic: graphs
     Jan 15:
       topic: graph traversal
-- week: "11"
+- week: "10"
   dates:
     Jan 18:
-      topic: lab
+      topic: lab (a4)
     Jan 20:
       topic: shortest paths
     Jan 22:
       topic: minimum spanning trees
-- week: "12"
+- week: "11"
   dates:
     Jan 25:
       topic: lab
@@ -98,15 +99,15 @@
       topic: string algorithms
     Jan 29:
       topic: tries / suffix trees
-- week: "13"
+- week: "12"
   dates:
     Feb 01:
-      topic: lab
+      topic: lab (a5)
     Feb 03:
       topic: regular languages / expressions 
     Feb 05:
       topic: finite-state automata
-- week: "14"
+- week: "13"
   dates:
     Feb 08:
       topic: lab
@@ -114,15 +115,15 @@
       topic: finite-state automata (2)
     Feb 12:
       topic: finite-state automata (3)
-- week: "15"
+- week: "14"
   dates:
     Feb 15:
-      topic: lab
+      topic: lab (a6)
     Feb 17:
       topic: finite-state transducers
     Feb 19:
       topic: finite-state morphological analysis
-- week: "16"
+- week: "15"
   dates:
     Feb 22:
       topic: lab

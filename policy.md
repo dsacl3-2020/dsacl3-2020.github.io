@@ -36,6 +36,8 @@ Attendance will not not be enforced. However, it is
 **unlikely** that you will pass the course without regular
 attendance. Presence sheets will be circulated during the course for
 informational purposes only.
+If you attend the class,
+you are **required** to sign attendance sheets due to COVID-19 regulations.
 
 ## Assignments
 
@@ -43,15 +45,22 @@ The following basic rules apply the assignments:
 
 1. Assignments that are not handed in timely are graded *0/100*. If you are
    ill, present a note from the doctor **before** the deadline.
-2. If your code does not compile due to errors in your code, your
+2. If your code does not run due to errors in your code, your
    assignment gets the grade *0/100*.
 3. Code is graded for correctness and style.
 
-You are encouraged to help one another in this course. We all need a
-little help sometimes and you can also learn quite a bit from helping
-others. However, there is a point where getting help turns into
-plagiarism. The code that you submit, **must** be your own code. Cases
-of plagiarism will be reported to the faculty.
+You are strongly encouraged to work in pairs.
+However, you are allowed to work with the same person only once
+during the semester.
+For those who have difficulty finding assignment partners
+we will set up a random mach making system.
+The parings from the system are only suggestions.
+You may decide not to pair with the suggested person.
+However, once you commit, you should be working *together*.
+
+The code that you submit, **must** be your own code.
+Cases of plagiarism will be reported to the faculty.
+You are welcome to:
 
 - Discuss a general approach to the solution of an assignment with your
   classmates.
@@ -62,7 +71,7 @@ Things you are **not allowed** to do:
 
 - Use someone else's code (in whole or in part), this includes code fragments
   from web sites such as Stack Overflow.
-- Give your solution to an assignment (in whole or in part) to a classmate.
+- Give your solution of an assignment (in whole or in part) to a classmate.
 - Get so much help on an assignment that you can no longer honestly call it
   your own.
 
@@ -86,10 +95,10 @@ for other file types that allow comments.
 """
  Course:      Data Structures and Algorithms for CL III - WS1920
  Assignment:  (Enter the assignment, "lab 1, exercise 1", for example)
- Author:      (Enter your full name here)
+ Authors:     (Enter your full name(s) here)
  Description: (Enter a description of your program/class here)
  
- Honor Code:  I pledge that this program represents my own work.
+ Honor Code:  I/we pledge that this program represents my/our own work.
 """
 ~~~
 
@@ -97,10 +106,9 @@ for other file types that allow comments.
 
 The following basic rules apply for the exams:
 
-* If you are too ill to take an exam, you must inform instructors by e-mail, **at
-  least 60 minutes** before the beginning of the exam. You also need to
-  present an attest from your doctor before enrolling into the
-  re-examination.
+* If you are too ill to take an exam, you must inform instructors by e-mail,
+  **at least 60 minutes** before the beginning of the exam. You also need to
+  present an attest from your doctor before enrolling into the re-examination.
 * A re-examination of the final exam is possible, if and only if you
   failed the course, but it is still possible to get a passing overall
   grade by obtaining a higher grade on the exam.
