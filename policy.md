@@ -32,12 +32,16 @@ and they should not be considered optional.
 
 ## Attendance
 
-Attendance will not not be enforced. However, it is
-**unlikely** that you will pass the course without regular
-attendance. Presence sheets will be circulated during the course for
+The course will start with online (synchronous) class sessions.
+Attendance will not not be enforced.
+However, it is **unlikely** that you will pass the course without regular attendance.
+<!--
+Presence sheets will be circulated during the course for
 informational purposes only.
 If you attend the class,
 you are **required** to sign attendance sheets due to COVID-19 regulations.
+-->
+
 
 ## Assignments
 
@@ -54,7 +58,7 @@ However, you are allowed to work with the same person only once
 during the semester.
 For those who have difficulty finding assignment partners
 we will set up a random mach making system.
-The parings from the system are only suggestions.
+The parings from this system are only suggestions.
 You may decide not to pair with the suggested person.
 However, once you commit, you should be working *together*.
 
@@ -84,7 +88,7 @@ and familiarize yourself with the system
 before you start working on your first assignment.
 
 Assignments are only accepted through the GitHub repositories.
-No other form of submissions (e.g., email) are accepted.
+No other forms of submissions (e.g., via email) are accepted.
 
 The following information should be provided as the file/module
 [docstring](https://www.python.org/dev/peps/pep-0257/)
@@ -93,12 +97,12 @@ for other file types that allow comments.
 
 ~~~{.python}
 """
- Course:      Data Structures and Algorithms for CL III - WS1920
+ Course:      Data Structures and Algorithms for CL III - WS2021
  Assignment:  (Enter the assignment, "lab 1, exercise 1", for example)
  Authors:     (Enter your full name(s) here)
  Description: (Enter a description of your program/class here)
  
- Honor Code:  I/we pledge that this program represents my/our own work.
+ Honor Code:  I/We pledge that this program represents my/our own work.
 """
 ~~~
 
