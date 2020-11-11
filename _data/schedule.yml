@@ -12,12 +12,12 @@
     Nov 09:
       topic: lab
     Nov 11:
-      topic: Introduction, administrivia, recap
+      topic: introduction, administrivia, recap
       links:
         slides: slides/introduction.pdf
         8up: slides/introduction-handout.pdf
     Nov 13:
-      topic: preliminaries (contd)
+      topic: preliminaries
 - week: "02"
   dates:
     Nov 16:
