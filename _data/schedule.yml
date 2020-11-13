@@ -17,7 +17,10 @@
         slides: slides/introduction.pdf
         8up: slides/introduction-handout.pdf
     Nov 13:
-      topic: preliminaries
+      topic: recap
+      links:
+        slides: slides/recap.pdf
+        8up: slides/recap-handout.pdf
 - week: "02"
   dates:
     Nov 16:
@@ -25,7 +28,7 @@
     Nov 18:
       topic: common algorithmic patterns
     Nov 20:
-      topic: math preliminaries
+      topic: analysis of algorithms
 - week: "03"
   dates:
     Nov 23:
