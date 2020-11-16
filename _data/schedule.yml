@@ -24,7 +24,9 @@
 - week: "02"
   dates:
     Nov 16:
-      topic: lab (a1)
+      topic: lab
+      links:
+        assignment 1: https://dsacl3-2020.github.io/a1/
     Nov 18:
       topic: common algorithmic patterns
     Nov 20:
