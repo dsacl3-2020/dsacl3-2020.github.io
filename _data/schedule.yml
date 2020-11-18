@@ -30,6 +30,9 @@
         assignment 1: https://dsacl3-2020.github.io/a1/
     Nov 18:
       topic: common algorithmic patterns
+      links:
+        slides: slides/patterns.pdf
+        8up: slides/patterns-handout.pdf
     Nov 20:
       topic: analysis of algorithms
 - week: "03"
