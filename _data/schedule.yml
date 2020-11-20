@@ -34,7 +34,7 @@
         slides: slides/patterns.pdf
         8up: slides/patterns-handout.pdf
     Nov 20:
-      topic: analysis of algorithms
+      topic: common algorithmic patterns
 - week: "03"
   dates:
     Nov 23:
@@ -48,7 +48,7 @@
     Nov 30:
       topic: lab (a2)
     Dec 02:
-      topic: sorting (2)
+      topic: sorting
     Dec 04:
       topic: trees
 - week: "05"
