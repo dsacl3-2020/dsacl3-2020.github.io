@@ -55,6 +55,9 @@
       topic: lab (a2)
     Dec 02:
       topic: sorting
+      links:
+        slides: slides/sorting.pdf
+        8up: slides/sorting-handout.pdf
     Dec 04:
       topic: trees
 - week: "05"
