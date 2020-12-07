@@ -64,6 +64,9 @@
   dates:
     Dec 07:
       topic: lab
+      links:
+        slides: slides/tutorial5.pdf
+        8up:
     Dec 09:
       topic: trees (2)
     Dec 11:
