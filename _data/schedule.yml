@@ -15,12 +15,12 @@
       topic: introduction, administrivia, recap
       links:
         slides: slides/introduction.pdf
-        8up: slides/introduction-handout.pdf
+        handout: slides/introduction-handout.pdf
     Nov 13:
       topic: recap
       links:
         slides: slides/recap.pdf
-        8up: slides/recap-handout.pdf
+        handout: slides/recap-handout.pdf
 - week: "02"
   dates:
     Nov 16:
@@ -32,7 +32,7 @@
       topic: common algorithmic patterns
       links:
         slides: slides/patterns.pdf
-        8up: slides/patterns-handout.pdf
+        handout: slides/patterns-handout.pdf
     Nov 20:
       topic: common algorithmic patterns
 - week: "03"
@@ -41,14 +41,14 @@
       topic: lab
       links:
         slides: slides/tutorial_3.pdf
-        8up:
+        handout:
     Nov 25:
       topic: analysis of algorithms
       links:
         slides: slides/analysis.pdf
-        8up: slides/analysis-handout.pdf
+        handout: slides/analysis-handout.pdf
     Nov 27:
-      topic: sorting
+      topic: analysis of algorithms
 - week: "04"
   dates:
     Nov 30:
@@ -57,18 +57,20 @@
       topic: sorting
       links:
         slides: slides/sorting.pdf
-        8up: slides/sorting-handout.pdf
+        handout: slides/sorting-handout.pdf
     Dec 04:
-      topic: trees
+      topic: sorting
 - week: "05"
   dates:
     Dec 07:
       topic: lab
       links:
         slides: slides/tutorial5.pdf
-        8up: slides/tutorial5.pdf
     Dec 09:
-      topic: trees (2)
+      topic: trees
+      links:
+        slides: slides/trees.pdf
+        handout: slides/trees-handout.pdf
     Dec 11:
       topic: priority queues, heaps
 - week: "06"
