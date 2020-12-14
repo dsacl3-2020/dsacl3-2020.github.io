@@ -80,6 +80,9 @@
   dates:
     Dec 14:
       topic: lab (a3)
+      links:
+        slides: slides/tutorial6.pdf
+        handout:
     Dec 16:
       topic: heap sort 
     Dec 18:
