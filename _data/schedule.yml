@@ -84,16 +84,21 @@
         slides: slides/tutorial6.pdf
         handout:
     Dec 16:
-      topic: heap sort 
+      topic: graphs
+        slides: slides/graphs.pdf
+        handout: slides/graphs-handout.pdf
     Dec 18:
-      topic: probability intro
+      topic: graph traversal
+      topic: graphs
+        slides: slides/graph-traversal.pdf
+        handout: slides/graph-traversal-handout.pdf
 - week: "07"
 
   dates:
     Dec 21:
       topic: lab
     Dec 23:
-      topic: summary
+      topic: directed graphs
     Dec 25: "Sem. break"
 - week: ""
   dates:
@@ -104,25 +109,25 @@
   dates:
     Jan 04: "Sem. break"
     Jan 06:
-      topic: hashing
+      topic: "Sem. break"
     Jan 08:
-      topic: hashing (2)
+      topic: minimum spanning trees
 - week: "09"
   dates:
     Jan 11:
       topic: lab
     Jan 13:
-      topic: graphs
+      topic: shortest paths
     Jan 15:
-      topic: graph traversal
+      topic: graphs/summary
 - week: "10"
   dates:
     Jan 18:
       topic: lab (a4)
     Jan 20:
-      topic: shortest paths
+      topic: maps, hash tables
     Jan 22:
-      topic: minimum spanning trees
+      topic: hashing
 - week: "11"
   dates:
     Jan 25:
