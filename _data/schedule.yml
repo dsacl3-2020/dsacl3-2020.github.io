@@ -85,11 +85,12 @@
         handout:
     Dec 16:
       topic: graphs
+      links:
         slides: slides/graphs.pdf
         handout: slides/graphs-handout.pdf
     Dec 18:
       topic: graph traversal
-      topic: graphs
+      links:
         slides: slides/graph-traversal.pdf
         handout: slides/graph-traversal-handout.pdf
 - week: "07"
