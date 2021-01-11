@@ -53,6 +53,8 @@
   dates:
     Nov 30:
       topic: lab (a2)
+      links:
+            solution: a2sol.py
     Dec 02:
       topic: sorting
       links:
