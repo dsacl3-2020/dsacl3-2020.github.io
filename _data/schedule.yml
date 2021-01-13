@@ -103,6 +103,9 @@
       topic: lab
     Dec 23:
       topic: directed graphs
+      links:
+        slides: slides/digraphs.pdf
+        handout: slides/digraphs-handout.pdf
     Dec 25: "Sem. break"
 - week: ""
   dates:
@@ -112,18 +115,20 @@
 - week: "08"
   dates:
     Jan 04: "Sem. break"
-    Jan 06:
-      topic: "Sem. break"
+    Jan 06: "Sem. break"
     Jan 08:
       topic: minimum spanning trees
+      links:
+        slides: slides/mst.pdf
+        handout: slides/mst-handout.pdf
 - week: "09"
   dates:
     Jan 11:
       topic: lab
     Jan 13:
-      topic: shortest paths
+      topic: minimum spanning trees
     Jan 15:
-      topic: graphs/summary
+      topic: shortest paths
 - week: "10"
   dates:
     Jan 18:
