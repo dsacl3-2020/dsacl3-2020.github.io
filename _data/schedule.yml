@@ -129,6 +129,9 @@
       topic: minimum spanning trees
     Jan 15:
       topic: shortest paths
+      links:
+        slides: slides/shortest-paths.pdf
+        handout: slides/shortest-paths-handout.pdf
 - week: "10"
   dates:
     Jan 18:
