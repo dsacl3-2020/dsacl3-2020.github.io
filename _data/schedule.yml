@@ -85,7 +85,7 @@
       topic: lab (a3)
       links:
         slides: slides/tutorial6.pdf
-        handout:
+        solution: a3sol.py
     Dec 16:
       topic: graphs
       links:
