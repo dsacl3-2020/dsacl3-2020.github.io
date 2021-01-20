@@ -138,6 +138,9 @@
       topic: lab (a4)
     Jan 20:
       topic: maps, hash tables
+      links:
+        slides: slides/hashing.pdf
+        handout: slides/hashing-handout.pdf
     Jan 22:
       topic: hashing
 - week: "11"
