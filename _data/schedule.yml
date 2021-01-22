@@ -142,7 +142,10 @@
         slides: slides/hashing.pdf
         handout: slides/hashing-handout.pdf
     Jan 22:
-      topic: hashing
+      topic: string matching
+      links:
+        slides: slides/string-matching.pdf
+        handout: slides/string-matching-handout.pdf
 - week: "11"
   dates:
     Jan 25:
