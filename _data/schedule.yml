@@ -151,7 +151,10 @@
     Jan 25:
       topic: lab
     Jan 27:
-      topic: string algorithms
+      topic: edit distance
+      links:
+        slides: slides/edit-distance.pdf
+        handout: slides/edit-distance-handout.pdf
     Jan 29:
       topic: tries / suffix trees
 - week: "12"
