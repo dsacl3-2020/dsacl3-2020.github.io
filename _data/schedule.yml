@@ -156,15 +156,21 @@
         slides: slides/edit-distance.pdf
         handout: slides/edit-distance-handout.pdf
     Jan 29:
-      topic: tries / suffix trees
+      topic:  edit distance
 - week: "12"
   dates:
     Feb 01:
       topic: lab (a5)
     Feb 03:
-      topic: regular languages / expressions 
+      topic: tries
+      links:
+        slides: slides/tries.pdf
+        handout: slides/tries-handout.pdf
     Feb 05:
       topic: finite-state automata
+      links:
+        slides: slides/fsa.pdf
+        handout: slides/fsa-handout.pdf
 - week: "13"
   dates:
     Feb 08:
