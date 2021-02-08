@@ -175,6 +175,8 @@
   dates:
     Feb 08:
       topic: lab
+      links:
+        slides: slides/tutorial.pdf
     Feb 10:
       topic: finite-state automata (2)
     Feb 12:
