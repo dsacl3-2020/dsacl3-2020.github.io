@@ -179,16 +179,25 @@
         slides: slides/tutorial.pdf
     Feb 10:
       topic: finite-state automata (2)
+      links:
+        slides: slides/fsa-determinization.pdf
+        handout: slides/fsa-determinization-handout.pdf
     Feb 12:
       topic: finite-state automata (3)
+      links:
+        slides: slides/fsa-minimization.pdf
+        handout: slides/fsa-minimization-handout.pdf
 - week: "14"
   dates:
     Feb 15:
       topic: lab (a6)
     Feb 17:
-      topic: finite-state transducers
+      topic: finite-state automata (4)
+      links: 
+        slides: slides/fsa-regular.pdf
+        handout: slides/fsa-regular-handout.pdf
     Feb 19:
-      topic: finite-state morphological analysis
+      topic: finite-state transducers
 - week: "15"
   dates:
     Feb 22:
