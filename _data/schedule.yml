@@ -198,6 +198,9 @@
         handout: slides/fsa-regular-handout.pdf
     Feb 19:
       topic: finite-state transducers
+      links: 
+        slides: slides/fst.pdf
+        handout: slides/fst-handout.pdf
 - week: "15"
   dates:
     Feb 22:
