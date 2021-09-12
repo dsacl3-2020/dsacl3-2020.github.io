@@ -3,12 +3,9 @@ layout: default
 title: Schedule & Material 
 ---
 
-**The schedule below is tentative, and likely to change.**
-Links to the course material will be provided in the schedule below
-after each class.
-You may want to have a look at the
-[previous edition of the course](https://dsacl3-2019.github.io/)
-for reference.
+The material below is provided for reference.
+Please use [the material from more recent course](https://dsacl3-2021.github.io/lectures.html)
+when available.
 
 ## The course schedule
 

@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-**The information in this course page is likely to change.**
-
 ## Introduction
 
 This is the web page of the course
