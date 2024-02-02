@@ -28,7 +28,6 @@
       links:
         slides: slides/tutorial2.pdf
         assignment 1: https://dsacl3-2020.github.io/a1/
-        solution: a1sol.py
     Nov 18:
       topic: common algorithmic patterns
       links:
@@ -54,8 +53,6 @@
   dates:
     Nov 30:
       topic: lab (a2)
-      links:
-            solution: a2sol.py
     Dec 02:
       topic: sorting
       links:
@@ -85,7 +82,6 @@
       topic: lab (a3)
       links:
         slides: slides/tutorial6.pdf
-        solution: a3sol.py
     Dec 16:
       topic: graphs
       links:
@@ -205,9 +201,6 @@
   dates:
     Feb 22:
       topic: lab
-      links: 
-        solution a4: a4-sol.py
-        solution a5: a5-sol.py
     Feb 24:
       topic: summary
     Feb 26:
